@@ -1,1 +1,1 @@
-https://hisham-tech.github.io/Royal-Rise/
+https://hisham-fullstack.github.io/Royal-Rise/
